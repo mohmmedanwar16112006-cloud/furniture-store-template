@@ -41,7 +41,7 @@ furniture-store-template/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/mohmmedanwar16112006/furniture-store-template.git
+   git clone https://github.com/mohmmed-anwar-01/furniture-store-template.git
    ```
 2. Open `index.html` in your browser.
 
